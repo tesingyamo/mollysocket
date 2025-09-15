@@ -47,7 +47,7 @@ regex = "1.11.0"
 qrcodegen = "1.8.0"
 base64 = "0.22.1"
 jwt = { version = "0.16.0", features = ["openssl"] }
-openssl = "0.10.68"
+openssl = "0.10.72"
 
 # [build-dependencies]
 # prost-build = { version = "0.12" }
